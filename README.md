@@ -15,10 +15,10 @@ Awesome D3D12 ecosystem
 * [Microsoft DirectX 12 and Graphics Education videos](https://www.youtube.com/channel/UCiaX2B8XiXR70jaN7NK-FpA)
 
 ### Samples
-* [DirectX Graphics samples](https://github.com/Microsoft/DirectX-Graphics-Samples) [MIT]
-* [DirectX 12 Tool Kit](https://github.com/Microsoft/DirectXTK12)
-* [DirectXTex texture processing library](https://github.com/Microsoft/DirectXTex) [MIT]
-* [Samples published by the Xbox Advanced Technology Group.](https://github.com/Microsoft/Xbox-ATG-Samples)
+* [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) - samples that demonstrate how to build graphics intensive applications on Windows [MIT]
+* [DirectXTK12](https://github.com/Microsoft/DirectXTK12) - DirectX 12 Tool Kit [MIT]
+* [DirectXTex](https://github.com/Microsoft/DirectXTex) - texture processing library [MIT]
+* [Xbox-ATG-Samples](https://github.com/Microsoft/Xbox-ATG-Samples) - Samples published by the Xbox Advanced Technology Group [[LICENSE](https://opensource.microsoft.com/codeofconduct/)]
 
 # NVIDIA
 ### Documents
