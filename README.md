@@ -23,6 +23,7 @@ Awesome D3D12 ecosystem
 # NVIDIA
 ### Documents
 * [Topics on developer blog](https://developer.nvidia.com/taxonomy/term/278)
+* [DX12 Do's And Don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
 
 ### Samples
 
