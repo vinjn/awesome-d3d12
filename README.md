@@ -31,6 +31,9 @@ Awesome D3D12 ecosystem
 * [Topics on GPUOpen](http://gpuopen.com/tag/dx12/)
 
 ### Samples
+* [HelloD3D12](https://github.com/GPUOpen-LibrariesAndSDKs/HelloD3D12) - HelloD3D12 is a small, introductory Direct3D 12 sample, which shows how to set up a window and render a textured quad complete with proper uploading handling, multiple frames queued, and constant buffers. [MIT]
+* [Barycentrics12](https://github.com/GPUOpen-LibrariesAndSDKs/Barycentrics12) - Barycentrics D3D12 GCN Shader Extension Sample [MIT]
+* [nBodyD3D12](https://github.com/GPUOpen-LibrariesAndSDKs/nBodyD3D12/tree/master/Samples/D3D12nBodyGravity) - This is a slightly modified version of the Microsoft D3D12nBodyGravity sample [MIT]
 
 # Intel
 ### Documents
