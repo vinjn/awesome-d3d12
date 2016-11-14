@@ -24,12 +24,15 @@ Awesome D3D12 ecosystem
 ### Documents
 * [Topics on developer blog](https://developer.nvidia.com/taxonomy/term/278)
 * [DX12 Do's And Don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
+* [Advanced Rendering with DirectX 11 and DirectX 12](http://developer.download.nvidia.com/gameworks/events/GDC2016/AdvancedRenderingwithDirectX11andDirectX12.pdf) - Holger Gruen
+* [Practical DirectX 12 – Programming Model and Hardware Capabilities](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Practical_DX12_Programming_Model_and_Hardware_Capabilities.pdf) - Gareth Thomas (AMD), Alex Dunn (NVIDIA)
 
 ### Samples
 
 # AMD
 ### Documents
 * [Topics on GPUOpen](http://gpuopen.com/tag/dx12/)
+* [Right on Queue: Advanced DirectX 12 Programming](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/GDC_2016_D3D12_Right_On_Queue_final.pdf) - Stephan Hodes (AMD), Dave Oldcorn (AMD), Dan Baker (Oxide)
 
 ### Samples
 * [HelloD3D12](https://github.com/GPUOpen-LibrariesAndSDKs/HelloD3D12) - HelloD3D12 is a small, introductory Direct3D 12 sample, which shows how to set up a window and render a textured quad complete with proper uploading handling, multiple frames queued, and constant buffers. [MIT]
