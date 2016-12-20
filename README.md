@@ -49,14 +49,14 @@ Awesome D3D12 ecosystem
 * [Topics](https://software.intel.com/en-us/search/site/field_tags/directx-12-78134)
 
 ### Samples
-* [Asteroids DirectX 12 Sample](https://github.com/GameTechDev/asteroids_d3d12)
-* [Interactive visualization for understanding swap chains in D3D12](https://github.com/GameTechDev/FlipModelD3D12)
-* [DirectX 12 Explicit Multi-adapter Sample](https://github.com/GameTechDev/DX12-Multi-Adapter)
+* [asteroids_d3d12](https://github.com/GameTechDev/asteroids_d3d12) - Asteroids DirectX 12 Sample
+* [FlipModelD3D12](https://github.com/GameTechDev/FlipModelD3D12) - Interactive visualization for understanding swap chains in D3D12
+* [DX12-Multi-Adapter](https://github.com/GameTechDev/DX12-Multi-Adapter) - DirectX 12 Explicit Multi-adapter Sample
 
 # Misc
 
 ### Documents
-* [Direct3D 12.0 quick reference guide](https://github.com/alessiot89/D3D12QuickRef)
+* [D3D12QuickRef](https://github.com/alessiot89/D3D12QuickRef) - Direct3D 12.0 quick reference guide
 
 ### Samples
 
