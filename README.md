@@ -11,6 +11,7 @@ Awesome D3D12 ecosystem
 * [Better Power, Better Performance: Your Game on DirectX12 (GDC 2015)](https://channel9.msdn.com/Events/GDC/GDC-2015/Better-Power-Better-Performance-Your-Game-on-DirectX12)
 * [Advanced DirectX12 Graphics and Performance (GDC 2015/BUILD 2015)](https://channel9.msdn.com/Events/GDC/GDC-2015/Advanced-DirectX12-Graphics-and-Performance)
 * [Direct3D Update: (GDC 2016)](https://channel9.msdn.com/Events/GDC/GDC-2015/Advanced-DirectX12-Graphics-and-Performance)
+* [DirectCompute in DirectX 12](http://on-demand.gputechconf.com/gtc/2015/presentation/S5561-Chas-Boyd.pdf) - Chas. Boyd
 
 ### Videos
 * [Microsoft DirectX 12 and Graphics Education videos](https://www.youtube.com/channel/UCiaX2B8XiXR70jaN7NK-FpA)
@@ -36,6 +37,7 @@ Awesome D3D12 ecosystem
 ### Documents
 * [Topics on GPUOpen](http://gpuopen.com/tag/dx12/)
 * [Right on Queue: Advanced DirectX 12 Programming](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/GDC_2016_D3D12_Right_On_Queue_final.pdf) - Stephan Hodes (AMD), Dave Oldcorn (AMD), Dan Baker (Oxide)
+* [D3D12 & Vulkan: Lessons Learned](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf) – Matthaeus Chajdas (AMD)
 
 ### Samples
 * [HelloD3D12](https://github.com/GPUOpen-LibrariesAndSDKs/HelloD3D12) - HelloD3D12 is a small, introductory Direct3D 12 sample, which shows how to set up a window and render a textured quad complete with proper uploading handling, multiple frames queued, and constant buffers. [MIT]
@@ -47,6 +49,7 @@ Awesome D3D12 ecosystem
 ### Documents
 
 * [Topics](https://software.intel.com/en-us/search/site/field_tags/directx-12-78134)
+* [Efficient Rendering with DirectX 12 on Intel Graphics](https://software.intel.com/sites/default/files/managed/4a/38/Efficient-Rendering-with-DirectX-12-on-Intel-Graphics.pdf)
 
 ### Samples
 * [asteroids_d3d12](https://github.com/GameTechDev/asteroids_d3d12) - Asteroids DirectX 12 Sample
@@ -57,6 +60,8 @@ Awesome D3D12 ecosystem
 
 ### Documents
 * [D3D12QuickRef](https://github.com/alessiot89/D3D12QuickRef) - Direct3D 12.0 quick reference guide
+* [Rendering Hitman with DirectX12](http://twvideo01.ubm-us.net/o1/vault/gdc2016/Presentations/meyer_jonas_rendering_hitman_with.pdf) - Jonas Meyer (IO Interactive)
+* [Object Space Rendering in DirectX 12](http://oxidegames.com/wp-content/uploads/2016/03/Object-Space-Lighting-Rev-21.pptx) – Dan Baker (Oxide Games)
 
 ### Samples
 
