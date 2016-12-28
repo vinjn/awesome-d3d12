@@ -54,6 +54,7 @@ Awesome D3D12 ecosystem
 
 * [Topics](https://software.intel.com/en-us/search/site/field_tags/directx-12-78134)
 * [Efficient Rendering with DirectX 12 on Intel Graphics](https://software.intel.com/sites/default/files/managed/4a/38/Efficient-Rendering-with-DirectX-12-on-Intel-Graphics.pdf)
+* [Performance Considerations for Resource Binding in Microsoft DirectX 12](https://software.intel.com/en-us/articles/performance-considerations-for-resource-binding-in-microsoft-directx-12) - Wolfgang Engel (CEO of Confetti)
 
 ### Samples
 * [asteroids_d3d12](https://github.com/GameTechDev/asteroids_d3d12) - Asteroids DirectX 12 Sample
