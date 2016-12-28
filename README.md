@@ -36,6 +36,7 @@ Awesome D3D12 ecosystem
 
 ### Documents
 * [Topics on GPUOpen](http://gpuopen.com/tag/dx12/)
+* [Direct3D12 and the Future of Graphics APIs](http://www.slideshare.net/DevCentralAMD/d3-d12-and-the-future-of-graphics-apis-by-dave-oldcorn) - Dave Oldcorn
 * [Right on Queue: Advanced DirectX 12 Programming](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/GDC_2016_D3D12_Right_On_Queue_final.pdf) - Stephan Hodes (AMD), Dave Oldcorn (AMD), Dan Baker (Oxide)
 * [D3D12 & Vulkan: Lessons Learned](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf) – Matthaeus Chajdas (AMD)
 * [Getting The Best Out Of D3D12](http://amd-dev.wpengine.netdna-cdn.com/wordpress/media/2012/10/Getting-the-best-out-of-D3D12.ppsx) - Evan Hart, Principal Engineer (NVIDIA), Dave Oldcorn, D3D12 Technical Lead (AMD)
