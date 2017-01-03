@@ -7,7 +7,7 @@ Awesome D3D12 ecosystem
 * [Direct3D 12 Programming Guide](https://msdn.microsoft.com/en-us/library/windows/desktop/dn899121(v=vs.85).aspx)
 * [Direct3D 12 Reference](https://msdn.microsoft.com/en-us/library/windows/desktop/dn770458(v=vs.85).aspx)
 * [Direct3D 12 Glossary](https://msdn.microsoft.com/en-us/library/windows/desktop/dn899119(v=vs.85).aspx)
-* [bind{more|less} resource binding in dx12](https://onedrive.live.com/view.aspx?cid=a4b88088c01d9e9a&page=view&resid=A4B88088C01D9E9A!160&parId=A4B88088C01D9E9A!106&app=PowerPoint)
+* [bind-more | bind-less resource binding in dx12](https://onedrive.live.com/view.aspx?cid=a4b88088c01d9e9a&page=view&resid=A4B88088C01D9E9A!160&parId=A4B88088C01D9E9A!106&app=PowerPoint)
 * [Chuck Walbourn's blog on DirectX SDK](https://blogs.msdn.microsoft.com/chuckw/)
 * [Better Power, Better Performance: Your Game on DirectX12 (GDC 2015)](https://channel9.msdn.com/Events/GDC/GDC-2015/Better-Power-Better-Performance-Your-Game-on-DirectX12)
 * [Advanced DirectX12 Graphics and Performance (GDC 2015/BUILD 2015)](https://channel9.msdn.com/Events/GDC/GDC-2015/Advanced-DirectX12-Graphics-and-Performance)
