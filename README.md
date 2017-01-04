@@ -73,5 +73,6 @@ Awesome D3D12 ecosystem
 
 * [Sample code for the book "Introduction to 3D Game Programming with DirectX 12"](https://github.com/d3dcoder/d3d12book)
 * [Bindless deferred texturing using D3D12](https://github.com/TheRealMJP/DeferredTexturing)
+* [HelloD3D12](https://github.com/shobomaru/HelloD3D12) - comprehensive samples by @shobomaru
 
 
