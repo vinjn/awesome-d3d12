@@ -75,4 +75,5 @@ Awesome D3D12 ecosystem
 * [Bindless deferred texturing using D3D12](https://github.com/TheRealMJP/DeferredTexturing)
 * [HelloD3D12](https://github.com/shobomaru/HelloD3D12) - comprehensive samples by @shobomaru
 * [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
+* [PipelineSet](https://github.com/nlguillemot/PipelineSet) -D3D12 Root Signature/Pipeline State Object live-reloading.
 
