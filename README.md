@@ -77,5 +77,7 @@ Awesome D3D12 ecosystem
 * [HelloD3D12](https://github.com/shobomaru/HelloD3D12) - comprehensive samples by @shobomaru
 * [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 * [PipelineSet](https://github.com/nlguillemot/PipelineSet) - D3D12 Root Signature/Pipeline State Object live-reloading.
-* [OverlappedExecution](https://github.com/TheRealMJP/OverlappedExecution) - a DX12 application that can visualize how draw and dispatch calls execute on the GPU [MIT]
+* [OverlappedExecution](https://github.com/TheRealMJP/OverlappedExecution) - visualize how draw and dispatch calls execute on the GPU [MIT]
+* [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing) - demonstrates bindless deferred texturing using D3D12 [MIT]
+
 
