@@ -32,6 +32,7 @@ Awesome D3D12 ecosystem
 * [Practical DirectX 12 – Programming Model and Hardware Capabilities](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Practical_DX12_Programming_Model_and_Hardware_Capabilities.pdf) - Gareth Thomas (AMD), Alex Dunn (NVIDIA)
 
 ### Samples
+ * [Falcor 2.0](https://github.com/NVIDIA/Falcor) - Falcor is DirectX 12 real-time rendering framework. It aims to improve productivity of reserach and prototype projects. [[LICENSE](https://github.com/NVIDIA/Falcor/blob/master/LICENSE.md)]
 
 # AMD
 
