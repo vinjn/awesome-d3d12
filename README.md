@@ -67,6 +67,11 @@ Awesome D3D12 ecosystem
 
 # Misc
 
+### Raytracing
+* [NVIDIA's early DXR samples](https://github.com/NVIDIAGameWorks/DxrTutorials)
+* [GettingStartedWithRTXRayTracing](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing) - Chris Wyman's SIGGRAPH 2018 Course "Introduction to DirectX Raytracing"
+* [Microsoft's D3D12 Raytracing Samples](https://github.com/Microsoft/DirectX-Graphics-Samples/tree/master/Samples/Desktop/D3D12Raytracing)
+
 ### Documents
 * [D3D12QuickRef](https://github.com/alessiot89/D3D12QuickRef) - Direct3D 12.0 quick reference guide
 * [Rendering Hitman with DirectX12](http://twvideo01.ubm-us.net/o1/vault/gdc2016/Presentations/meyer_jonas_rendering_hitman_with.pdf) - Jonas Meyer (IO Interactive)
